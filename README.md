@@ -11,6 +11,11 @@ NTNU ME Programing Course (2019)
   * #### Quiz
     * [Quiz-1.cpp](Week-1/Quiz/Quiz-1.cpp)
   * #### Classwork
+    * [Classwork1-1.cpp](Week-1/Classwork/Classwork1-1.cpp)
+    * [Classwork1-2.cpp](Week-1/Classwork/Classwork1-2.cpp)
+    * [Classwork1-3.cpp](Week-1/Classwork/Classwork1-3.cpp)
+    * [Classwork1-4.cpp](Week-1/Classwork/Classwork1-4.cpp)
+    * [Classwork1-5.cpp](Week-1/Classwork/Classwork1-5.cpp)
 ### Week-2 
 
 ### Week-3
