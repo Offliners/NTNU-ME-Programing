@@ -2,8 +2,9 @@
 NTNU ME Programing Course (2019)
 
 ## Schedule
-* Week-1 
-  #### Youtube Course
+### Week-1 
+
+  * #### Youtube Course
   * [add.cpp](Week-1/YoutubeCourse/add.cpp)
   * [plusplus.cpp](Week-1/YoutubeCourse/plusplus.cpp)
 
