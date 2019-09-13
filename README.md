@@ -41,4 +41,4 @@ NTNU ME Programing Course (2019)
 * Week-18
 
 ## IDE
-Visual Studio Community 2017
+Visual Studio Community 2019
