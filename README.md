@@ -7,6 +7,7 @@ NTNU ME Programing Course (2019)
   * #### Youtube Course
     * [add.cpp](Week-1/YoutubeCourse/add.cpp)
     * [plusplus.cpp](Week-1/YoutubeCourse/plusplus.cpp)
+    * [roots-of-a-quadratic-equation.cpp](Week-1/YoutubeCourse/roots-of-a-quadratic-equation.cpp)
   * #### Quiz
   * #### Classwork
 ### Week-2 
