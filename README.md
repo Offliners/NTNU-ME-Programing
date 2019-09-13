@@ -4,7 +4,7 @@ NTNU ME Programing Course (2019)
 ## Schedule
 * Week-1 
  
-  * [add.cpp]()
+  * [add.cpp](Week-1/add.cpp)
 
 * Week-2 
 
