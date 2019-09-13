@@ -45,3 +45,6 @@ NTNU ME Programing Course (2019)
 
 ## IDE
 Visual Studio Community 2019
+
+## Reference
+https://www.youtube.com/playlist?list=PLXxs-fSMcpYdvCissEpAk0khHlXnEovrp
