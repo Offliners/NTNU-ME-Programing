@@ -8,4 +8,4 @@ Week 1
 Week 2 
 
 ## IDE
-Visual Stdio Community 2017
+Visual Studio Community 2017
