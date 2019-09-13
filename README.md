@@ -2,8 +2,8 @@
 NTNU ME Programing Course (2019)
 
 ## Schedule
-Week-1 
-  * Introduction
+ * Week-1 
+   Introduction
 
 Week-2 
 
