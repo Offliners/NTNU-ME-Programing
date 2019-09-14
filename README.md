@@ -24,6 +24,7 @@ NTNU ME Programing Course (2019)
    * [grade.cpp](Week-2/YoutubeCourse/grade.cpp)
    * [grade-1.cpp](Week-2/YoutubeCourse/grade-1.cpp)
    * [discount.cpp](Week-2/YoutubeCourse/discount.cpp)
+   * [discount-1.cpp](Week-2/YoutubeCourse/discount-1.cpp)
  * #### Quiz
  * #### Classwork
 ### Week-3
