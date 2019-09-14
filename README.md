@@ -20,6 +20,7 @@ NTNU ME Programing Course (2019)
 
  * #### Youtube Course
    * [roots-of-a-quadratic-equation-with-if-else.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else.cpp)
+   * [roots-of-a-quadratic-equation-with-if-else-1.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else-1.cpp)
  * #### Quiz
  * #### Classwork
 ### Week-3
