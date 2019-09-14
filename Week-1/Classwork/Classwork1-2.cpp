@@ -11,7 +11,7 @@ int main()
 	printf_s("Please input y : ");
 	scanf_s("%lf", &y);
 	printf_s("Please input z : ");
-	scanf_s(" %c", &z);
+	scanf_s(" %c", &z, sizeof(z));
 	printf_s("x=%d y=%e z=%c\n", x, y, z);
 	system("pause");
 }
