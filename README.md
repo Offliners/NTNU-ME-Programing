@@ -28,6 +28,7 @@ NTNU ME Programing Course (2019)
    * [sum-with-for-loop.cpp](Week-2/YoutubeCourse/sum-with-for-loop.cpp)
    * [sum-with-for-loop-1.cpp](Week-2/YoutubeCourse/sum-with-for-loop-1.cpp)
    * [sum-with-while-loop.cpp](Week-2/YoutubeCourse/sum-with-while-loop.cpp)
+   * [sum-with-do-while.cpp](Week-2/YoutubeCourse/sum-with-do-while.cpp)
  * #### Quiz
  * #### Classwork
 ### Week-3
