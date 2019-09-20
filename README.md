@@ -32,7 +32,15 @@ NTNU ME Programing Course (2019)
    * [sum-with-do-while.cpp](Week-2/YoutubeCourse/sum-with-do-while.cpp)
    * [while-vs-do-while.cpp](Week-2/YoutubeCourse/while-vs-do-while.cpp)
  * #### Quiz
+   * [Quiz-2.cpp]
  * #### Classwork
+   * [Classwork2-1.cpp]
+   * [Classwork2-2.cpp]
+   * [Classwork2-3.cpp]
+   * [Classwork2-4.cpp]
+   * [Classwork2-5.cpp]
+   * [Classwork2-6.cpp]
+   * [Classwork2-7.cpp]
 ### Week-3
 
  * #### Youtube Course
