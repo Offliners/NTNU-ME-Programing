@@ -38,6 +38,7 @@ NTNU ME Programing Course (2019)
  * #### Youtube Course
    * [infinite-loop-while.cpp](Week-3/YoutubeCourse/infinite-loop-while.cpp)
    * [infinite-loop-while-1.cpp](Week-3/YoutubeCourse/infinite-loop-while-1.cpp)
+   * [infinite-loop-for.cpp](Week-3/YoutubeCourse/infinite-loop-for.cpp)
  * #### Quiz
  * #### Classwork
 ### Week-4
