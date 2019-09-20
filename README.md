@@ -52,6 +52,7 @@ NTNU ME Programing Course (2019)
    * [sum-with-continue.cpp](Week-3/YoutubeCourse/sum-with-continue.cpp)
    * [multiplication-table-for.cpp](Week-3/YoutubeCourse/multiplication-table-for.cpp)
    * [multiplication-table-while.cpp](Week-3/YoutubeCourse/multiplication-table-while.cpp)
+   * [product.cpp](Week-3/YoutubeCourse/product.cpp)
  * #### Quiz
  * #### Classwork
 ### Week-4
