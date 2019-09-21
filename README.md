@@ -56,6 +56,7 @@ NTNU ME Programing Course (2019)
    * [program-repeat-execution.cpp](Week-3/YoutubeCourse/program-repeat-execution.cpp)
    * [program-repeat-execution-with-cls.cpp](Week-3/YoutubeCourse/program-repeat-execution-with-cls.cpp)
    * [menu.cpp](Week-3/YoutubeCourse/menu.cpp)
+   * [menu-repeat-execution.cpp](Week-3/YoutubeCourse/menu-repeat-execution.cpp)
  * #### Quiz
    * [Quiz-3.cpp] 
  * #### Classwork
