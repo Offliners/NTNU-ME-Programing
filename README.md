@@ -98,4 +98,13 @@ NTNU ME Programing Course (2019)
 Visual Studio Community 2019
 
 ## Reference
+* Video  
+
 https://www.youtube.com/playlist?list=PLXxs-fSMcpYdvCissEpAk0khHlXnEovrp
+
+* Textbook : 
+
+C How to program 8/E
+
+透視C語言指標
+
