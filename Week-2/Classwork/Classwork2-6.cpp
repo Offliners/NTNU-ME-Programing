@@ -13,7 +13,7 @@ int main()
 		if (4 / (2.0 * count - 1) < t)
 			break;
 		if (count % 2 == 0)
-			pi += -4 / (2.0 * count - 1);
+			pi -= 4 / (2.0 * count - 1);
 		else
 			pi += 4 / (2.0 * count - 1);
 		count++;
