@@ -67,6 +67,7 @@ NTNU ME Programing Course (2019)
 ### Week-4
 
  * #### Youtube Course
+   * [add-with-function.cpp](Week-4/YoutubeCourse/add-with-function.cpp)
  * #### Quiz
    * [Quiz-4.cpp]
  * #### Classwork
