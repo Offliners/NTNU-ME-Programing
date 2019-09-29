@@ -74,6 +74,7 @@ NTNU ME Programing Course (2019)
    * [factorial-function-3.cpp](Week-4/YoutubeCourse/factorial-function-3.cpp)
    * [factorial-function-4.cpp](Week-4/YoutubeCourse/factorial-function-4.cpp)
    * [fibonacci.cpp](Week-4/YoutubeCourse/fibonacci.cpp)
+   * [fibonacci-advance.cpp](Week-4/YoutubeCourse/fibonacci-advance.cpp)
  * #### Quiz
    * [Quiz-4.cpp]
  * #### Classwork
