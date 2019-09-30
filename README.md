@@ -82,6 +82,7 @@ NTNU ME Programing Course (2019)
    * [random-with-seed.cpp](Week-4/YoutubeCourse/random-with-seed.cpp)
    * [random-with-time-seed.cpp](Week-4/YoutubeCourse/random-with-time-seed.cpp)
    * [random-advance.cpp](Week-4/YoutubeCourse/random-advance.cpp)
+   * [random-float-number.cpp](Week-4/YoutubeCourse/random-float-number.cpp)
  * #### Quiz
    * [Quiz-4.cpp]
  * #### Classwork
