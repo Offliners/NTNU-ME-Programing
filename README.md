@@ -85,8 +85,8 @@ NTNU ME Programing Course (2019)
    * [random-float-number.cpp](Week-4/YoutubeCourse/random-float-number.cpp)
    * GCD-with-header
      * [main.cpp](Week-4/YoutubeCourse/GCD-with-header/main.cpp)
-     * [func.h](Week-4/YoutubeCourse/GCD-with-header/func.h)
-     * [func.cpp](Week-4/YoutubeCourse/GCD-with-header/func.cpp)
+     * [mymath.h](Week-4/YoutubeCourse/GCD-with-header/mymath.h)
+     * [math.cpp](Week-4/YoutubeCourse/GCD-with-header/math.cpp)
     
  * #### Quiz
    * [Quiz-4.cpp]
