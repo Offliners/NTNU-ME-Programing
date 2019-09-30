@@ -78,6 +78,8 @@ NTNU ME Programing Course (2019)
    * [GCD.cpp](Week-4/YoutubeCourse/GCD.cpp)
    * [GCD-advance.cpp](Week-4/YoutubeCourse/GCD-advance.cpp)
    * [GCD-overloading.cpp](Week-4/YoutubeCourse/GCD-overloading.cpp)
+   * [random-without-seed.cpp](Week-4/YoutubeCourse/random-without-seed.cpp)
+   * [random-with-seed.cpp](Week-4/YoutubeCourse/random-with-seed.cpp)
  * #### Quiz
    * [Quiz-4.cpp]
  * #### Classwork
