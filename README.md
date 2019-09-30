@@ -87,6 +87,12 @@ NTNU ME Programing Course (2019)
      * [main.cpp](Week-4/YoutubeCourse/GCD-with-header/main.cpp)
      * [mymath.h](Week-4/YoutubeCourse/GCD-with-header/mymath.h)
      * [math.cpp](Week-4/YoutubeCourse/GCD-with-header/math.cpp)
+   * menu-with-header
+     * [main.cpp](Week-4/YoutubeCourse/menu-with-header/main.cpp)
+     * [arith.cpp](Week-4/YoutubeCourse/menu-with-header/arith.cpp)
+     * [arith.h](Week-4/YoutubeCourse/menu-with-header/arith.h)
+     * [func1.cpp](Week-4/YoutubeCourse/menu-with-header/func1.cpp)
+     * [func1.h](Week-4/YoutubeCourse/menu-with-header/func1.h)
     
  * #### Quiz
    * [Quiz-4.cpp]
