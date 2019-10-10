@@ -1,5 +1,7 @@
 # NTNU ME Programing
-NTNU ME Programing Course (2019)
+NTNU ME Programing Course (2019 Fall)
+
+Course ID : `MTU0012`
 
 ## Schedule
 ### Week-1
