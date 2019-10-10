@@ -3,6 +3,7 @@ NTNU ME Programing Course (2019)
 
 ## Schedule
 ### Week-1
+  * #### Introduction
 ### Week-2
   * #### Youtube Course
     * [add.cpp](Week-2/YoutubeCourse/add.cpp)
@@ -18,81 +19,79 @@ NTNU ME Programing Course (2019)
     * [Classwork1-5.cpp](Week-2/Classwork/Classwork1-5.cpp)
 ### Week-3
  * #### Youtube Course
-   * [roots-of-a-quadratic-equation-with-if-else.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else.cpp)
-   * [roots-of-a-quadratic-equation-with-if-else-1.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else-1.cpp)
-   * [grade.cpp](Week-2/YoutubeCourse/grade.cpp)
-   * [grade-1.cpp](Week-2/YoutubeCourse/grade-1.cpp)
-   * [discount.cpp](Week-2/YoutubeCourse/discount.cpp)
-   * [discount-1.cpp](Week-2/YoutubeCourse/discount-1.cpp)
-   * [sum-with-for-loop.cpp](Week-2/YoutubeCourse/sum-with-for-loop.cpp)
-   * [sum-with-for-loop-1.cpp](Week-2/YoutubeCourse/sum-with-for-loop-1.cpp)
-   * [sum-with-for-loop-2.cpp](Week-2/YoutubeCourse/sum-with-for-loop-2.cpp)
-   * [sum-with-while-loop.cpp](Week-2/YoutubeCourse/sum-with-while-loop.cpp)
-   * [sum-with-do-while.cpp](Week-2/YoutubeCourse/sum-with-do-while.cpp)
-   * [while-vs-do-while.cpp](Week-2/YoutubeCourse/while-vs-do-while.cpp)
+   * [roots-of-a-quadratic-equation-with-if-else.cpp](Week-3/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else.cpp)
+   * [roots-of-a-quadratic-equation-with-if-else-1.cpp](Week-3/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else-1.cpp)
+   * [grade.cpp](Week-3/YoutubeCourse/grade.cpp)
+   * [grade-1.cpp](Week-3/YoutubeCourse/grade-1.cpp)
+   * [discount.cpp](Week-3/YoutubeCourse/discount.cpp)
+   * [discount-1.cpp](Week-3/YoutubeCourse/discount-1.cpp)
+   * [sum-with-for-loop.cpp](Week-3/YoutubeCourse/sum-with-for-loop.cpp)
+   * [sum-with-for-loop-1.cpp](Week-3/YoutubeCourse/sum-with-for-loop-1.cpp)
+   * [sum-with-for-loop-2.cpp](Week-3/YoutubeCourse/sum-with-for-loop-2.cpp)
+   * [sum-with-while-loop.cpp](Week-3/YoutubeCourse/sum-with-while-loop.cpp)
+   * [sum-with-do-while.cpp](Week-3/YoutubeCourse/sum-with-do-while.cpp)
+   * [while-vs-do-while.cpp](Week-3/YoutubeCourse/while-vs-do-while.cpp)
  * #### Quiz
-   * [Quiz-2.cpp](Week-2/Quiz/Quiz-2.cpp)
+   * [Quiz-2.cpp](Week-3/Quiz/Quiz-2.cpp)
  * #### Classwork
-   * [Classwork2-1.cpp](Week-2/Classwork/Classwork2-1.cpp)
-   * [Classwork2-2.cpp](Week-2/Classwork/Classwork2-2.cpp)
-   * [Classwork2-3.cpp](Week-2/Classwork/Classwork2-3.cpp)
-   * [Classwork2-4.cpp](Week-2/Classwork/Classwork2-4.cpp)
-   * [Classwork2-5.cpp](Week-2/Classwork/Classwork2-5.cpp)
-   * [Classwork2-6.cpp](Week-2/Classwork/Classwork2-6.cpp)
-   * [Classwork2-7.cpp](Week-2/Classwork/Classwork2-7.cpp)
+   * [Classwork2-1.cpp](Week-3/Classwork/Classwork2-1.cpp)
+   * [Classwork2-2.cpp](Week-3/Classwork/Classwork2-2.cpp)
+   * [Classwork2-3.cpp](Week-3/Classwork/Classwork2-3.cpp)
+   * [Classwork2-4.cpp](Week-3/Classwork/Classwork2-4.cpp)
+   * [Classwork2-5.cpp](Week-3/Classwork/Classwork2-5.cpp)
+   * [Classwork2-6.cpp](Week-3/Classwork/Classwork2-6.cpp)
+   * [Classwork2-7.cpp](Week-3/Classwork/Classwork2-7.cpp)
 ### Week-4
-
  * #### Youtube Course
-   * [infinite-loop-while.cpp](Week-3/YoutubeCourse/infinite-loop-while.cpp)
-   * [infinite-loop-while-1.cpp](Week-3/YoutubeCourse/infinite-loop-while-1.cpp)
-   * [infinite-loop-for.cpp](Week-3/YoutubeCourse/infinite-loop-for.cpp)
-   * [break.cpp](Week-3/YoutubeCourse/break.cpp)
-   * [continue.cpp](Week-3/YoutubeCourse/continue.cpp)
-   * [sum-with-continue.cpp](Week-3/YoutubeCourse/sum-with-continue.cpp)
-   * [multiplication-table-for.cpp](Week-3/YoutubeCourse/multiplication-table-for.cpp)
-   * [multiplication-table-while.cpp](Week-3/YoutubeCourse/multiplication-table-while.cpp)
-   * [factorial.cpp](Week-3/YoutubeCourse/factorial.cpp)
-   * [program-repeat-execution.cpp](Week-3/YoutubeCourse/program-repeat-execution.cpp)
-   * [program-repeat-execution-with-cls.cpp](Week-3/YoutubeCourse/program-repeat-execution-with-cls.cpp)
-   * [menu.cpp](Week-3/YoutubeCourse/menu.cpp)
-   * [menu-repeat-execution.cpp](Week-3/YoutubeCourse/menu-repeat-execution.cpp)
+   * [infinite-loop-while.cpp](Week-4/YoutubeCourse/infinite-loop-while.cpp)
+   * [infinite-loop-while-1.cpp](Week-4/YoutubeCourse/infinite-loop-while-1.cpp)
+   * [infinite-loop-for.cpp](Week-4/YoutubeCourse/infinite-loop-for.cpp)
+   * [break.cpp](Week-4/YoutubeCourse/break.cpp)
+   * [continue.cpp](Week-4/YoutubeCourse/continue.cpp)
+   * [sum-with-continue.cpp](Week-4/YoutubeCourse/sum-with-continue.cpp)
+   * [multiplication-table-for.cpp](Week-4/YoutubeCourse/multiplication-table-for.cpp)
+   * [multiplication-table-while.cpp](Week-4/YoutubeCourse/multiplication-table-while.cpp)
+   * [factorial.cpp](Week-4/YoutubeCourse/factorial.cpp)
+   * [program-repeat-execution.cpp](Week-4/YoutubeCourse/program-repeat-execution.cpp)
+   * [program-repeat-execution-with-cls.cpp](Week-4/YoutubeCourse/program-repeat-execution-with-cls.cpp)
+   * [menu.cpp](Week-4/YoutubeCourse/menu.cpp)
+   * [menu-repeat-execution.cpp](Week-4/YoutubeCourse/menu-repeat-execution.cpp)
  * #### Quiz
-   * [Quiz-3.cpp](Week-3/Quiz/Quiz-3.cpp)
+   * [Quiz-3.cpp](Week-4/Quiz/Quiz-3.cpp)
  * #### Classwork
-   * [Classwork3-1.cpp](Week-3/Classwork/Classwork3-1.cpp)
-   * [Classwork3-2.cpp](Week-3/Classwork/Classwork3-2.cpp)
-   * [Classwork3-3.cpp](Week-3/Classwork/Classwork3-3.cpp)
-   * [Classwork3-4.cpp](Week-3/Classwork/Classwork3-4.cpp)
+   * [Classwork3-1.cpp](Week-4/Classwork/Classwork3-1.cpp)
+   * [Classwork3-2.cpp](Week-4/Classwork/Classwork3-2.cpp)
+   * [Classwork3-3.cpp](Week-4/Classwork/Classwork3-3.cpp)
+   * [Classwork3-4.cpp](Week-4/Classwork/Classwork3-4.cpp)
 ### Week-5
 
  * #### Youtube Course
-   * [add-with-function.cpp](Week-4/YoutubeCourse/add-with-function.cpp)
-   * [menu-with-function.cpp](Week-4/YoutubeCourse/menu-with-function.cpp)
-   * [factorial-function-1.cpp](Week-4/YoutubeCourse/factorial-function-1.cpp)
-   * [factorial-function-2.cpp](Week-4/YoutubeCourse/factorial-function-2.cpp)
-   * [factorial-function-3.cpp](Week-4/YoutubeCourse/factorial-function-3.cpp)
-   * [factorial-function-4.cpp](Week-4/YoutubeCourse/factorial-function-4.cpp)
-   * [fibonacci.cpp](Week-4/YoutubeCourse/fibonacci.cpp)
-   * [fibonacci-advance.cpp](Week-4/YoutubeCourse/fibonacci-advance.cpp)
-   * [GCD.cpp](Week-4/YoutubeCourse/GCD.cpp)
-   * [GCD-advance.cpp](Week-4/YoutubeCourse/GCD-advance.cpp)
-   * [GCD-overloading.cpp](Week-4/YoutubeCourse/GCD-overloading.cpp)
-   * [random-without-seed.cpp](Week-4/YoutubeCourse/random-without-seed.cpp)
-   * [random-with-seed.cpp](Week-4/YoutubeCourse/random-with-seed.cpp)
-   * [random-with-time-seed.cpp](Week-4/YoutubeCourse/random-with-time-seed.cpp)
-   * [random-advance.cpp](Week-4/YoutubeCourse/random-advance.cpp)
-   * [random-float-number.cpp](Week-4/YoutubeCourse/random-float-number.cpp)
+   * [add-with-function.cpp](Week-5/YoutubeCourse/add-with-function.cpp)
+   * [menu-with-function.cpp](Week-5/YoutubeCourse/menu-with-function.cpp)
+   * [factorial-function-1.cpp](Week-5/YoutubeCourse/factorial-function-1.cpp)
+   * [factorial-function-2.cpp](Week-5/YoutubeCourse/factorial-function-2.cpp)
+   * [factorial-function-3.cpp](Week-5/YoutubeCourse/factorial-function-3.cpp)
+   * [factorial-function-4.cpp](Week-5/YoutubeCourse/factorial-function-4.cpp)
+   * [fibonacci.cpp](Week-5/YoutubeCourse/fibonacci.cpp)
+   * [fibonacci-advance.cpp](Week-5/YoutubeCourse/fibonacci-advance.cpp)
+   * [GCD.cpp](Week-5/YoutubeCourse/GCD.cpp)
+   * [GCD-advance.cpp](Week-5/YoutubeCourse/GCD-advance.cpp)
+   * [GCD-overloading.cpp](Week-5/YoutubeCourse/GCD-overloading.cpp)
+   * [random-without-seed.cpp](Week-5/YoutubeCourse/random-without-seed.cpp)
+   * [random-with-seed.cpp](Week-5/YoutubeCourse/random-with-seed.cpp)
+   * [random-with-time-seed.cpp](Week-5/YoutubeCourse/random-with-time-seed.cpp)
+   * [random-advance.cpp](Week-5/YoutubeCourse/random-advance.cpp)
+   * [random-float-number.cpp](Week-5/YoutubeCourse/random-float-number.cpp)
    * GCD-with-header
-     * [main.cpp](Week-4/YoutubeCourse/GCD-with-header/main.cpp)
-     * [mymath.h](Week-4/YoutubeCourse/GCD-with-header/mymath.h)
-     * [math.cpp](Week-4/YoutubeCourse/GCD-with-header/math.cpp)
+     * [main.cpp](Week-5/YoutubeCourse/GCD-with-header/main.cpp)
+     * [mymath.h](Week-5/YoutubeCourse/GCD-with-header/mymath.h)
+     * [math.cpp](Week-5/YoutubeCourse/GCD-with-header/math.cpp)
    * menu-with-header
-     * [main.cpp](Week-4/YoutubeCourse/menu-with-header/main.cpp)
-     * [arith.cpp](Week-4/YoutubeCourse/menu-with-header/arith.cpp)
-     * [arith.h](Week-4/YoutubeCourse/menu-with-header/arith.h)
-     * [func1.cpp](Week-4/YoutubeCourse/menu-with-header/func1.cpp)
-     * [func1.h](Week-4/YoutubeCourse/menu-with-header/func1.h)
-    
+     * [main.cpp](Week-5/YoutubeCourse/menu-with-header/main.cpp)
+     * [arith.cpp](Week-5/YoutubeCourse/menu-with-header/arith.cpp)
+     * [arith.h](Week-5/YoutubeCourse/menu-with-header/arith.h)
+     * [func1.cpp](Week-5/YoutubeCourse/menu-with-header/func1.cpp)
+     * [func1.h](Week-5/YoutubeCourse/menu-with-header/func1.h)
  * #### Quiz
    * [Quiz-4.cpp]
    * [Quiz-5-Debug.cpp]
@@ -103,7 +102,6 @@ NTNU ME Programing Course (2019)
    * [Classwork4-4.cpp]
    * [Classwork4-5.cpp]
 ### Week-6
-
  * #### Quiz
    * [Quiz-6.cpp]
  * #### Classwork
@@ -111,7 +109,6 @@ NTNU ME Programing Course (2019)
    * [Classwork5-2.cpp]
    * [Classwork5-3.cpp]
 ### Week-7
-
   * #### Youtube Course
     * [fibonacci-with-recursion.cpp](Week-7/YoutubeCourse/fibonacci-with-recursion.cpp)
     * [GCD-with-recursion.cpp](Week-7/YoutubeCourse/GCD-with-recursion.cpp)
