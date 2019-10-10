@@ -4,7 +4,6 @@ NTNU ME Programing Course (2019)
 ## Schedule
 ### Week-1
 ### Week-2
-
   * #### Youtube Course
     * [add.cpp](Week-2/YoutubeCourse/add.cpp)
     * [plusplus.cpp](Week-2/YoutubeCourse/plusplus.cpp)
@@ -18,7 +17,6 @@ NTNU ME Programing Course (2019)
     * [Classwork1-4.cpp](Week-2/Classwork/Classwork1-4.cpp)
     * [Classwork1-5.cpp](Week-2/Classwork/Classwork1-5.cpp)
 ### Week-3
-
  * #### Youtube Course
    * [roots-of-a-quadratic-equation-with-if-else.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else.cpp)
    * [roots-of-a-quadratic-equation-with-if-else-1.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else-1.cpp)
