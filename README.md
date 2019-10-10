@@ -2,7 +2,8 @@
 NTNU ME Programing Course (2019)
 
 ## Schedule
-### Week-1 
+### Week-1
+### Week-2
 
   * #### Youtube Course
     * [add.cpp](Week-1/YoutubeCourse/add.cpp)
@@ -16,7 +17,7 @@ NTNU ME Programing Course (2019)
     * [Classwork1-3.cpp](Week-1/Classwork/Classwork1-3.cpp)
     * [Classwork1-4.cpp](Week-1/Classwork/Classwork1-4.cpp)
     * [Classwork1-5.cpp](Week-1/Classwork/Classwork1-5.cpp)
-### Week-2 
+### Week-3
 
  * #### Youtube Course
    * [roots-of-a-quadratic-equation-with-if-else.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation-with-if-else.cpp)
@@ -41,7 +42,7 @@ NTNU ME Programing Course (2019)
    * [Classwork2-5.cpp](Week-2/Classwork/Classwork2-5.cpp)
    * [Classwork2-6.cpp](Week-2/Classwork/Classwork2-6.cpp)
    * [Classwork2-7.cpp](Week-2/Classwork/Classwork2-7.cpp)
-### Week-3
+### Week-4
 
  * #### Youtube Course
    * [infinite-loop-while.cpp](Week-3/YoutubeCourse/infinite-loop-while.cpp)
@@ -64,7 +65,7 @@ NTNU ME Programing Course (2019)
    * [Classwork3-2.cpp](Week-3/Classwork/Classwork3-2.cpp)
    * [Classwork3-3.cpp](Week-3/Classwork/Classwork3-3.cpp)
    * [Classwork3-4.cpp](Week-3/Classwork/Classwork3-4.cpp)
-### Week-4
+### Week-5
 
  * #### Youtube Course
    * [add-with-function.cpp](Week-4/YoutubeCourse/add-with-function.cpp)
@@ -96,18 +97,31 @@ NTNU ME Programing Course (2019)
     
  * #### Quiz
    * [Quiz-4.cpp]
+   * [Quiz-5-Debug.cpp]
  * #### Classwork
    * [Classwork4-1.cpp]
    * [Classwork4-2.cpp]
    * [Classwork4-3.cpp]
    * [Classwork4-4.cpp]
    * [Classwork4-5.cpp]
-### Week-5
-
 ### Week-6
 
+ * #### Quiz
+   * [Quiz-6.cpp]
+ * #### Classwork
+   * [Classwork5-1.cpp]
+   * [Classwork5-2.cpp]
+   * [Classwork5-3.cpp]
 ### Week-7
 
+  * #### Youtube Course
+  
+  * #### Quiz
+    * [Quiz-7.cpp]
+  * #### Classwork
+    * [Classwork6-1.cpp]
+    * [Classwork6-2.cpp]
+    * [Classwork6-3.cpp]
 ### Week-8
 
 ### Week-9
