@@ -6,17 +6,17 @@ NTNU ME Programing Course (2019)
 ### Week-2
 
   * #### Youtube Course
-    * [add.cpp](Week-1/YoutubeCourse/add.cpp)
-    * [plusplus.cpp](Week-1/YoutubeCourse/plusplus.cpp)
-    * [roots-of-a-quadratic-equation.cpp](Week-1/YoutubeCourse/roots-of-a-quadratic-equation.cpp)
+    * [add.cpp](Week-2/YoutubeCourse/add.cpp)
+    * [plusplus.cpp](Week-2/YoutubeCourse/plusplus.cpp)
+    * [roots-of-a-quadratic-equation.cpp](Week-2/YoutubeCourse/roots-of-a-quadratic-equation.cpp)
   * #### Quiz
-    * [Quiz-1.cpp](Week-1/Quiz/Quiz-1.cpp)
+    * [Quiz-1.cpp](Week-2/Quiz/Quiz-1.cpp)
   * #### Classwork
-    * [Classwork1-1.cpp](Week-1/Classwork/Classwork1-1.cpp)
-    * [Classwork1-2.cpp](Week-1/Classwork/Classwork1-2.cpp)
-    * [Classwork1-3.cpp](Week-1/Classwork/Classwork1-3.cpp)
-    * [Classwork1-4.cpp](Week-1/Classwork/Classwork1-4.cpp)
-    * [Classwork1-5.cpp](Week-1/Classwork/Classwork1-5.cpp)
+    * [Classwork1-1.cpp](Week-2/Classwork/Classwork1-1.cpp)
+    * [Classwork1-2.cpp](Week-2/Classwork/Classwork1-2.cpp)
+    * [Classwork1-3.cpp](Week-2/Classwork/Classwork1-3.cpp)
+    * [Classwork1-4.cpp](Week-2/Classwork/Classwork1-4.cpp)
+    * [Classwork1-5.cpp](Week-2/Classwork/Classwork1-5.cpp)
 ### Week-3
 
  * #### Youtube Course
