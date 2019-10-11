@@ -119,6 +119,7 @@ Course ID : `MTU0012`
     * [power-with-recursion.cpp](Week-7/YoutubeCourse/power-with-recursion.cpp)
     * [Towers-of-Hanoi.cpp](Week-7/YoutubeCourse/Towers-of-Hanoi.cpp)
     * [compare-with-four-methods.cpp](Week-7/YoutubeCourse/compare-with-four-methods.cpp)
+    * [GCD-with-ternary-operation.cpp](Week-7/YoutubeCourse/GCD-with-ternary-operation.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
