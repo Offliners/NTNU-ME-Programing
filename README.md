@@ -120,6 +120,8 @@ Course ID : `MTU0012`
     * [Towers-of-Hanoi.cpp](Week-7/YoutubeCourse/Towers-of-Hanoi.cpp)
     * [compare-with-four-methods.cpp](Week-7/YoutubeCourse/compare-with-four-methods.cpp)
     * [GCD-with-ternary-operation.cpp](Week-7/YoutubeCourse/GCD-with-ternary-operation.cpp)
+    * [memory-address-1.cpp](Week-7/YoutubeCourse/memory-address-1.cpp)
+    * [memory-address-2.cpp](Week-7/YoutubeCourse/memory-address-2.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
