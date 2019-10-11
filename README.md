@@ -114,6 +114,9 @@ Course ID : `MTU0012`
   * #### Youtube Course
     * [fibonacci-with-recursion.cpp](Week-7/YoutubeCourse/fibonacci-with-recursion.cpp)
     * [GCD-with-recursion.cpp](Week-7/YoutubeCourse/GCD-with-recursion.cpp)
+    * [sum-with-recursion.cpp](Week-7/YoutubeCourse/sum-with-recursion.cpp)
+    * [factorial-with-recursion.cpp](Week-7/YoutubeCourse/factorial-with-recursion.cpp)
+    * [power-with-recursion.cpp](Week-7/YoutubeCourse/power-with-recursion.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
