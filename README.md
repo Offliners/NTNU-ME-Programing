@@ -118,6 +118,7 @@ Course ID : `MTU0012`
     * [factorial-with-recursion.cpp](Week-7/YoutubeCourse/factorial-with-recursion.cpp)
     * [power-with-recursion.cpp](Week-7/YoutubeCourse/power-with-recursion.cpp)
     * [Towers-of-Hanoi.cpp](Week-7/YoutubeCourse/Towers-of-Hanoi.cpp)
+    * [compare-with-four-methods.cpp](Week-7/YoutubeCourse/compare-with-four-methods.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
