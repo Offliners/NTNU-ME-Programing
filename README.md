@@ -126,6 +126,7 @@ Course ID : `MTU0012`
     * storage-class-extern
       * [main.cpp](Week-7/YoutubeCourse/storage-class-extern/main.cpp)
       * [extern.cpp](Week-7/YoutubeCourse/storage-class-extern/extern.cpp)
+    * [storage-class-register.cpp](Week-7/YoutubeCourse/storage-class-register.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
