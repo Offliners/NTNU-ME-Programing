@@ -123,6 +123,9 @@ Course ID : `MTU0012`
     * [memory-address-1.cpp](Week-7/YoutubeCourse/memory-address-1.cpp)
     * [memory-address-2.cpp](Week-7/YoutubeCourse/memory-address-2.cpp)
     * [storage-class-auto-vs-static.cpp](Week-7/YoutubeCourse/storage-class-auto-vs-static.cpp)
+    * storage-class-extern
+      * [main.cpp](Week-7/YoutubeCourse/storage-class-extern/main.cpp)
+      * [extern.cpp](Week-7/YoutubeCourse/storage-class-extern/extern.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
