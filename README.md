@@ -122,6 +122,7 @@ Course ID : `MTU0012`
     * [GCD-with-ternary-operation.cpp](Week-7/YoutubeCourse/GCD-with-ternary-operation.cpp)
     * [memory-address-1.cpp](Week-7/YoutubeCourse/memory-address-1.cpp)
     * [memory-address-2.cpp](Week-7/YoutubeCourse/memory-address-2.cpp)
+    * [storage-class-auto-vs-static.cpp](Week-7/YoutubeCourse/storage-class-auto-vs-static.cpp)
   * #### Quiz
     * [Quiz-7.cpp]
   * #### Classwork
