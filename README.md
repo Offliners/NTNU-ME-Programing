@@ -95,7 +95,10 @@ Course ID : `MTU0012`
      * [func1.cpp](Week-5/YoutubeCourse/menu-with-header/func1.cpp)
      * [func1.h](Week-5/YoutubeCourse/menu-with-header/func1.h)
  * #### Quiz
-   * [Quiz-4.cpp](Week-5/Quiz/Quiz-4.cpp)
+   * Quiz-4
+     * [main.cpp](Week-5/Quiz/Quiz-4/main.cpp)
+     * [calPi.h](Week-5/Quiz/Quiz-4/calPi.h)
+     * [calPi.cpp](Week-5/Quiz/Quiz-4/calPi.cpp)
    * [Quiz-5-Debug.cpp](Week-5/Quiz/Quiz-5-Debug.cpp)
  * #### Classwork
    * [Classwork4-1.cpp](Week-5/Classwork/Classwork4-1.cpp)
