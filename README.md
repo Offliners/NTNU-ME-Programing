@@ -131,7 +131,12 @@ Course ID : `MTU0012`
       * [extern.cpp](Week-7/YoutubeCourse/storage-class-extern/extern.cpp)
     * [storage-class-register.cpp](Week-7/YoutubeCourse/storage-class-register.cpp)
   * #### Quiz
-    * [Quiz-7.cpp]
+    * Quiz-7
+      * [main.cpp](Week-7/Quiz/Quiz-7/main.cpp)
+      * [menu.h](Week-7/Quiz/Quiz-7/menu.h)
+      * [menu.cpp](Week-7/Quiz/Quiz-7/menu.cpp)
+      * [func.h](Week-7/Quiz/Quiz-7/func.h)
+      * [func.cpp](Week-7/Quiz/Quiz-7/func.cpp)
   * #### Classwork
     * [Classwork6-1.cpp]
     * [Classwork6-2.cpp]
