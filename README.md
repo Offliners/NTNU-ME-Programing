@@ -143,7 +143,7 @@ Course ID : `MTU0012`
   * #### Classwork
     * [Classwork6-1.cpp]
     * [Classwork6-2.cpp]
-    * [Classwork6-3.cpp]
+    * [Classwork6-3.cpp](Week-7/Classwork/Classwork6-3.cpp)
 ### Week-8
   * Previous MidExam
     * 104 MidExam
