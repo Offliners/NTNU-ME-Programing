@@ -141,8 +141,8 @@ Course ID : `MTU0012`
       * [func.h](Week-7/Quiz/Quiz-7/func.h)
       * [func.cpp](Week-7/Quiz/Quiz-7/func.cpp)
   * #### Classwork
-    * [Classwork6-1.cpp]
-    * [Classwork6-2.cpp]
+    * [Classwork6-1.cpp](Week-7/Classwork/Classwork6-1.cpp)
+    * [Classwork6-2.cpp](Week-7/Classwork/Classwork6-2.cpp)
     * [Classwork6-3.cpp](Week-7/Classwork/Classwork6-3.cpp)
 ### Week-8
   * Previous MidExam
