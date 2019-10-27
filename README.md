@@ -108,7 +108,7 @@ Course ID : `MTU0012`
    * [Classwork4-5.cpp](Week-5/Classwork/Classwork4-5.cpp)
 ### Week-6
  * #### Quiz
-   * [Quiz-6.cpp](Week-6/Classwork/Quiz-6.cpp)
+   * [Quiz-6.cpp](Week-6/Quiz/Quiz-6.cpp)
  * #### Classwork
    * [Classwork5-1.cpp]
    * [Classwork5-2.cpp]
