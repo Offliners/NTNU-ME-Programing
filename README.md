@@ -150,7 +150,7 @@ Course ID : `MTU0012`
     * 105 MidExam
     * 106 MidExam
 ### Week-9
-  * MidExam
+  * 108 MidExam
 
 ### Week-10
 
