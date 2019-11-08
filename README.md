@@ -165,7 +165,13 @@ Course ID : `MTU0012`
       * [Menu.cpp](Week-8/106MidExam/Menu.cpp)
 ### Week-9
   * 108 MidExam
-
+    * [midMain.cpp](Week-8/104MidExam/midMain.cpp)
+    * [fundamental.h](Week-8/104MidExam/fundamental.h)
+    * [advance.h](Week-8/104MidExam/advance.h)
+    * [menu.h](Week-8/104MidExam/menu.h)
+    * [Fundamental.cpp](Week-8/104MidExam/Fundamental.cpp)
+    * [Advance.cpp](Week-8/104MidExam/Advance.cpp)
+    * [Menu.cpp](Week-8/104MidExam/Menu.cpp)
 ### Week-10
 
 ### Week-11
