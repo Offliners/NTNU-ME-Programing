@@ -174,6 +174,7 @@ Course ID : `MTU0012`
     * [Menu.cpp](Week-9/Menu.cpp)
 ### Week-10
   * #### Youtube Course
+    * [array-1.cpp](Week-10/YoutubeCourse/array-1.cpp)
   * #### Quiz
     * [Quiz-8.cpp](Week-10/Quiz/Quiz-8.cpp)
   * #### Classwork
