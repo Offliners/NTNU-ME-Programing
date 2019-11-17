@@ -3,7 +3,7 @@
 
 int main()
 {
-	char color[10];
+	char color[10] = "";
 	char ch;
 	int i = 0, j = 0;
 	
