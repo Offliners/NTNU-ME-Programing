@@ -179,6 +179,8 @@ Course ID : `MTU0012`
     * [int-array-input.cpp](Week-10/YoutubeCourse/int-array-input.cpp)
     * [char-array-input.cpp](Week-10/YoutubeCourse/char-array-input.cpp)
     * [double-array-input.cpp](Week-10/YoutubeCourse/double-array-input.cpp)
+    * [array-sum.cpp](Week-10/YoutubeCourse/array-sum.cpp)
+    * [max-element-in-array.cpp](Week-10/YoutubeCourse/max-element-in-array.cpp)
   * #### Quiz
     * [Quiz-8.cpp](Week-10/Quiz/Quiz-8.cpp)
   * #### Classwork
