@@ -181,6 +181,7 @@ Course ID : `MTU0012`
     * [double-array-input.cpp](Week-10/YoutubeCourse/double-array-input.cpp)
     * [array-sum.cpp](Week-10/YoutubeCourse/array-sum.cpp)
     * [max-element-in-array.cpp](Week-10/YoutubeCourse/max-element-in-array.cpp)
+    * [ASCII-table.cpp](Week-10/YoutubeCourse/ASCII-table.cpp)
   * #### Quiz
     * [Quiz-8.cpp](Week-10/Quiz/Quiz-8.cpp)
   * #### Classwork
