@@ -185,6 +185,7 @@ Course ID : `MTU0012`
     * [char-array-initialization.cpp](Week-10/YoutubeCourse/char-array-initialization.cpp)
     * [run-time-check-failure.cpp](Week-10/YoutubeCourse/run-time-check-failure.cpp)
     * [putchar-getchar.cpp](Week-10/YoutubeCourse/putchar-getchar.cpp)
+    * [uppercase-to-lowercase.cpp](Week-10/YoutubeCourse/uppercase-to-lowercase.cpp)
   * #### Quiz
     * [Quiz-8.cpp](Week-10/Quiz/Quiz-8.cpp)
   * #### Classwork
