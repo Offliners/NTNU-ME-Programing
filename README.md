@@ -183,6 +183,7 @@ Course ID : `MTU0012`
     * [max-element-in-array.cpp](Week-10/YoutubeCourse/max-element-in-array.cpp)
     * [ASCII-table.cpp](Week-10/YoutubeCourse/ASCII-table.cpp)
     * [char-array-initialization.cpp](Week-10/YoutubeCourse/char-array-initialization.cpp)
+    * [run-time-check-failure.cpp](Week-10/YoutubeCourse/run-time-check-failure.cpp)
   * #### Quiz
     * [Quiz-8.cpp](Week-10/Quiz/Quiz-8.cpp)
   * #### Classwork
