@@ -194,7 +194,13 @@ Course ID : `MTU0012`
     * [Classwork7-3.cpp](Week-10/Classwork/Classwork7-3.cpp)
     * [Classwork7-4.cpp](Week-10/Classwork/Classwork7-4.cpp)
 ### Week-11
-
+  * #### Youtube Course
+  * #### Quiz
+    * Quiz-9.cpp
+  * #### Classwork
+    * Classwork8-1.cpp
+    * Classwork8-2.cpp
+    * Classwork8-3.cpp
 ### Week-12
 
 ### Week-13
