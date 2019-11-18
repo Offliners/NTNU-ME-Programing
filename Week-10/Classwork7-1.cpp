@@ -22,3 +22,4 @@ double Sqrt(int num)
 		n = 0.5 * (n + num / n);
 	return n;
 }
+
