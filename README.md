@@ -203,7 +203,7 @@ Course ID : `MTU0012`
 ### Week-11
   * #### Youtube Course
   * #### Quiz
-    * [Quiz-9.cpp]((Week-11/Quiz/Quiz-9.cpp)
+    * [Quiz-9.cpp](Week-11/Quiz/Quiz-9.cpp)
   * #### Classwork
     * Classwork8-1.cpp
     * Classwork8-2.cpp
