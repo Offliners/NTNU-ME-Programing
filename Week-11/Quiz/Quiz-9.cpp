@@ -8,7 +8,7 @@ double median(int arr[], int nsize);
 int main()
 {
 	int data[100] = { 0 };
-	int	size;
+	int size;
 	char select;
 
 	while (1)
