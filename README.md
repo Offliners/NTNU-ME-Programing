@@ -234,7 +234,7 @@ Download Link : https://visualstudio.microsoft.com/vs/
 
 * #### Textbook  
 
-    C How to program 8/E
+    C How to program 8/E (ISBN13 : `9781292110974`)
  
-    透視C語言指標
+    透視C語言指標 (ISBN ： `9789862769409`)
 
